@@ -1,0 +1,16 @@
+:root{
+
+    --primary-Propertymancer-A: hsl(270,65%,20%);
+    --primary-Propertymancer-B: hsl(270, 65%, 36%);
+    --primary-Propertymancer-C: hsl(270,65%,50%);
+
+    --primary-background-A: hsl(246, 14%, 14%);
+    --primary-background-B: hsl(246, 24%, 23%);
+    --primary-background-C: hsl(246, 24%, 46%);
+    --primary-background-D: hsl(340, 80%, 48%);
+
+    --primary-font-color-A: white;
+    --primary-font-color-B: hsl(0, 0%, 35%);
+
+
+}

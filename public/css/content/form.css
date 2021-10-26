@@ -1,0 +1,64 @@
+input {
+
+    background-color: var(--primary-background-B);
+    border-color: var(--primary-font-color-A);
+    color: var(--primary-font-color-A);
+    display:block;
+    margin:20px;
+    padding: 5%;
+
+}
+
+label {
+
+    text-align: center;
+    font-size: 105%;
+}
+
+.inlineInput{
+
+    display: inline;
+    margin:3px;
+
+}
+
+.medButton {
+
+    padding: 1em;
+    max-width: 2em ;
+    background-color: var(--primary-font-color-A);
+    color: var(--primary-font-color-A);
+
+}
+
+.viewPassword {
+
+    padding: 1em 1em 1em 1em;
+
+}
+
+form {
+
+    max-width: fit-content;
+    color:var(--primary-font-color-A);
+    padding:50px;
+    margin-top:30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--primary-background-D);
+    border-radius: 2%;
+}
+
+form h1 {
+
+    display:block;
+    text-align:center;
+    margin-bottom: 40px;
+    font-size: 30px;
+    color: var(--primary-font-color-A);
+    font-weight: bolder;
+
+}
+
+

@@ -1,0 +1,66 @@
+
+
+*{
+    margin: 0px;
+}
+
+body{
+
+    background-color: rgb(12, 11, 11);
+
+}
+
+nav {
+
+    display: block;
+    background-color: violet;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul {
+
+    list-style-type: none;
+    display:block;
+    padding:0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: var(--primary-Propertymancer-A) ;
+
+}
+
+nav ul li {
+
+    display:inline;
+    float:left;
+
+}
+
+.logo{
+
+    font-size:3em;
+    font-weight:900;
+    color:white;
+    background-color: transparent;
+    border-radius: 0px;
+
+}
+
+
+nav ul li a {
+
+    display:block;
+    padding:20px;
+    text-decoration: none;
+    color: var(--primary-font-color-A);
+    background-color:hsl(288, 61%, 22%) ;
+    border-radius: 5px;
+}
+
+li a:hover{
+
+    background-color: hsl(2,2,2);
+    color: hsl();
+}
+

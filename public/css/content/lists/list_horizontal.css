@@ -1,0 +1,12 @@
+.list_horizontal {
+
+list-style-type: none;
+
+}
+
+.list_horizontal li {
+
+    display: inline;
+    float:left
+
+}

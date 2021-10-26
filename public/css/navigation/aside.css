@@ -1,0 +1,11 @@
+
+aside {
+
+    display: inline;
+    padding: 20px;
+    border-right-color: orangered;
+    border-right-width: 3px;
+    margin-top:30px;
+    background-color:orangered;
+  
+}
